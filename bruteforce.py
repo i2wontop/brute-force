@@ -1,6 +1,6 @@
 """
 Universal Brute Force with CSRF Bypass — async rewrite
-Author: Tanvir Hossain Antu  (https://github.com/Antu7)
+Author: i2w  (https://github.com/i2wontop)
 
 Architecture
     asyncio + aiohttp for I/O-bound concurrency
@@ -61,7 +61,7 @@ BANNER = f"""{C.CYAN}
 ██   ██ ██   ██ ██    ██    ██    ██          ██      ██    ██ ██   ██ ██      ██
 ██████  ██   ██  ██████     ██    ███████     ██       ██████  ██   ██  ██████ ███████
 {C.RESET}{C.DIM}                          i2w
-                  https://github.com/i2w23192/brute-force{C.RESET}
+                  https://github.com/i2wontop/brute-force{C.RESET}
 """
 
 
