@@ -135,4 +135,4 @@ Unauthorized access to computer systems is illegal. This tool is for:
 Pull requests are welcome. For major changes, please open an issue first.
 
 
-### Happy Hacking 🔥🔥
+### Happy hacking if you are reading this please text me on discord @i2wontop "BruteDorkblabla" I have a little secret for you.
